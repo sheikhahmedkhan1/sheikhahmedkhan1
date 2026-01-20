@@ -8,7 +8,7 @@
   - Keep the badges & cards URLs but change the username where required.
 -->
 
-# 👋 Hi, I'm **YOUR_NAME** — Full Stack Developer
+# 👋 Hi, I'm Sheikh Ahemd — Full Stack Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2b6cb0&width=680&lines=Production-ready+web+apps;React+%7C+Node.js+%7C+TypeScript;Design+%2B+Performance+%2B+Reliability" alt="Typing SVG"/>
@@ -16,16 +16,16 @@
 
 <p align="center">
   <!-- Replace YOUR_USERNAME in badges -->
-  <a href="https://github.com/YOUR_USERNAME">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social">
+  <a href="https://github.com/sheikhahmedkhan1">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sheikhahmedkhan1?label=Follow&style=social">
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="[https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ahmed-siddique-95695a30b/)" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sheikhahmedali664@gmail.com">
     <img alt="Mail" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" />
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=sheikhahmedkhan1" />
 </p>
 
 ---
@@ -83,8 +83,8 @@ Repo: [github.com/YOUR_USERNAME/project-two](https://github.com/YOUR_USERNAME/pr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=github_dark">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark">
+  <img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=sheikhahmedkhan1&show_icons=true&count_private=true&theme=github_dark">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhahmedkhan1&layout=compact&theme=github_dark">
 </p>
 
 > Want different theme? swap `theme=github_dark` to `theme=radical`, `tokyonight`, etc.
@@ -100,8 +100,8 @@ Repo: [github.com/YOUR_USERNAME/project-two](https://github.com/YOUR_USERNAME/pr
 
 ## 📫 Reach me
 - Email: `YOUR_EMAIL`  
-- LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-- Portfolio: [https://your-portfolio.com](https://your-portfolio.com)  
+- LinkedIn: [YOUR_LINKEDIN]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ahmed-siddique-95695a30b/))  
+- Portfolio: [https://your-portfolio.com]([https://your-portfolio.com](https://portfolio-omega-ahmed-28.vercel.app/))  
 - Resume: [Download PDF](https://your-portfolio.com/resume.pdf)
 
 ---
